@@ -1,0 +1,9 @@
+# YouTube Video: https://www.youtube.com/watch?v=mP_Ln-Z9-XY
+EMAIL_ADDRESS = "prteccom@gmail.com"
+noGNIB = '123456'
+date_exGNIB = '15/08/2019'
+name = 'Paulo'
+lastName = 'Nobrega'
+dateOfBirth = '01/01/1985'
+Nationality = 'Brazil'
+passportNo = 'aa123456'
