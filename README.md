@@ -1,5 +1,5 @@
 # gnib_irp
-App to looking GNIB / IRP appointment.\n
+App to looking GNIB / IRP appointment.<br />
 This is my first project in Python.
 That app is usefull already but I still working in the code(as you can see).
 Enjoy!
